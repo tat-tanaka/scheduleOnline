@@ -1,0 +1,2 @@
+●結合テスト仕様書に記載すべき項目について
+https://pm-rasinban.com/integration-test
