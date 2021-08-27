@@ -38,3 +38,4 @@ IDE[固定]XXX[連番]
 　http:localhost:8080[お決まり分]/クラス名
 　
 
+
